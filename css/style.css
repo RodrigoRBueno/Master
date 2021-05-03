@@ -201,7 +201,7 @@ html, body {
 }
 
 .product__sponsor-logo {
-    width: 10%;
+    flex-basis: 50px;
     margin-right: auto;
     margin-left: auto;
     margin-top: 0;
@@ -411,7 +411,7 @@ html, body {
     }
 
     .features__img {
-        width: 200px;
+        width: 150px;
         flex-basis: 50%;
     }
 }
